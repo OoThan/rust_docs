@@ -16,5 +16,6 @@ fn main() {
     #![crate_name = "doc"]
 
     /// A human being is represented here
+    /// 
     
 }
