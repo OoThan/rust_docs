@@ -13,9 +13,10 @@ fn main() {
      */
 
     // 2. Doc Comments
-    #![crate_name = "doc"]
+    // #![crate_name = "doc"]
 
-    /// A human being is represented here
-    /// 
+    // A human being is represented here
+    let x = 5 + /* 90 + */ 5;
+    println!("Is `x` 10 or 100? x = {}", x);
     
 }
